@@ -26,7 +26,7 @@
     <groupId>org.apache.jclouds.api</groupId>
     <artifactId>vsphere</artifactId>
     <name>jclouds vSphere api</name>
-    <description>jclouds components to access an implementation of VMWare vSphere</description>
+    <description>jclouds components to access an implementation of VMWare vSphere.</description>
     <packaging>bundle</packaging>
 
     <properties>
